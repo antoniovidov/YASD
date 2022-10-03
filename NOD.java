@@ -1,4 +1,4 @@
-package YASD;
+package YASD.YASD;
 
 import java.util.Scanner;
 
